@@ -26,7 +26,7 @@ The basic idea is, to...
 ## Installation
 ```sh
 # Installation
-git clone https://github.com/iBaa/PlexConnect.git
+git clone https://github.com/CyberGhost84/PlexConnect.git
 # Updating
 cd PlexConnect
 git pull
